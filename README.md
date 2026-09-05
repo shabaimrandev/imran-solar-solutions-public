@@ -3,7 +3,7 @@
 A marketing website for a solar design, installation, and maintenance company, built to convert visitors into qualified leads.
 
 ## Features
-- **Interactive Solar Savings Calculator** — Lets visitors select their DisCo band and adjust monthly electricity bill / peak sun hours to instantly estimate a recommended system size, annual savings, payback period, and 20-year projected savings. This is one of the most important features for a solar site because it turns an abstract "go green" pitch into a concrete, personalized number — the moment someone sees "you could save ₦300k+ a year," they're far more likely to request a quote.
+- **Interactive Solar Savings Calculator** — Lets visitors select their DisCo band and adjust monthly electricity bill / peak sun hours to instantly estimate a recommended system size, annual savings, payback period, and 20-year projected savings. This is one of the most important features for a solar site because it gives a concrete, personalized number. Tthe moment someone sees "you could save ₦300k+ a year," they're far more likely to request a quote.
 - **Services overview** — Design & consultation, supply & installation, battery storage, and monitoring & maintenance.
 - **Portfolio gallery** — Residential, commercial, and industrial installation showcase.
 - **Process breakdown** — A simple 4-step "sunlight to savings" explainer for how the company works.
